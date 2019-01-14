@@ -1,0 +1,16 @@
+[09-Sep-2018 14:02:58 America/Sao_Paulo] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/razortecnologia/public_html/pilotocarimbos.com.br/admin/model/conexao.php on line 75
+[09-Sep-2018 14:05:54 America/Sao_Paulo] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/razortecnologia/public_html/pilotocarimbos.com.br/admin/model/conexao.php on line 75
+[10-Sep-2018 08:40:09 America/Sao_Paulo] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/razortecnologia/public_html/pilotocarimbos.com.br/admin/model/conexao.php on line 75
+[10-Sep-2018 08:40:33 America/Sao_Paulo] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/razortecnologia/public_html/pilotocarimbos.com.br/admin/model/conexao.php on line 75
+[10-Sep-2018 08:48:15 America/Sao_Paulo] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/razortecnologia/public_html/pilotocarimbos.com.br/admin/model/conexao.php on line 75
+[10-Sep-2018 10:25:34 America/Sao_Paulo] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/razortecnologia/public_html/pilotocarimbos.com.br/admin/model/conexao.php on line 75
+[11-Sep-2018 04:10:47 America/Sao_Paulo] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/razortecnologia/public_html/pilotocarimbos.com.br/admin/model/conexao.php on line 75
+[12-Sep-2018 14:44:24 America/Sao_Paulo] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/razortecnologia/public_html/pilotocarimbos.com.br/admin/model/conexao.php on line 75
+[13-Sep-2018 11:56:17 America/Sao_Paulo] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/razortecnologia/public_html/pilotocarimbos.com.br/admin/model/conexao.php on line 75
+[17-Sep-2018 08:20:58 America/Sao_Paulo] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/razortecnologia/public_html/pilotocarimbos.com.br/admin/model/conexao.php on line 75
+[14-Oct-2018 21:34:41 UTC] PHP Notice:  Undefined index: data_hora in /home/razortecnologia/public_html/hugovidros.com.br/admin/model/conexao.php on line 49
+[14-Oct-2018 21:34:41 UTC] PHP Notice:  Undefined index: data_hora in /home/razortecnologia/public_html/hugovidros.com.br/admin/model/conexao.php on line 49
+[14-Oct-2018 21:34:41 UTC] PHP Notice:  Undefined index: data_hora in /home/razortecnologia/public_html/hugovidros.com.br/admin/model/conexao.php on line 49
+[14-Oct-2018 21:34:41 UTC] PHP Notice:  Undefined index: data_hora in /home/razortecnologia/public_html/hugovidros.com.br/admin/model/conexao.php on line 49
+[15-Oct-2018 03:25:47 UTC] PHP Notice:  Undefined index: data_hora in /home/razortecnologia/public_html/hugovidros.com.br/admin/model/conexao.php on line 49
+[17-Oct-2018 02:50:30 UTC] PHP Fatal error:  Call to a member function execute() on boolean in /home/razortecnologia/public_html/hugovidros.com.br/admin/model/conexao.php on line 82
